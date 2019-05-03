@@ -21,7 +21,7 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
   سعی کنید انتخابی کنید که دیگران آن  را انتخاب نکنند و برنامه خود را به خوانا ترین شکل بنویسید. بهترین برنامه ها معرفی خواهند شد
   
   
-  </alt
+  </alt>
 
 http://www.cs.princeton.edu/courses/archive/fall14/cos126/art/index.php
 
