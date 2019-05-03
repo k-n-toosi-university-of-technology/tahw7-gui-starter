@@ -26,3 +26,23 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 http://www.cs.princeton.edu/courses/archive/fall14/cos126/art/index.php
 
 https://www.cs.princeton.edu/courses/archive/fall15/cos126/art/index.php
+
+
+# Output
+
+take a screenshot from the output of your program and save it as an image into the docs directory. then edit the readme to show that image using the raw url:
+
+for example the output of my program is image output.PNG and it is here: https://github.com/k-n-toosi-university-of-technology/tahw7-gui-starter/blob/master/docs/ouput.PNG
+
+then in order to show it you should use this syntax:
+
+`![alt text](<IMAGE_URL> "Ouptut")`
+
+so put this one into your readme:
+
+`![alt text](https://github.com/k-n-toosi-university-of-technology/tahw7-gui-starter/blob/master/docs/ouput.PNG "Ouptut")`
+
+
+![alt text](https://github.com/k-n-toosi-university-of-technology/tahw7-gui-starter/blob/master/docs/ouput.PNG "Ouptut")
+
+
